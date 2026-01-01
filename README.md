@@ -3,7 +3,8 @@
 AirCast is a desktop-focused web application that provides real-time weather and air quality insights in a single, clean interface. It focuses on clarity, usability, and environmental awareness rather than just raw data.
 
 🚀 Key Features
-#First-in-the Segment Highlights
+
+First-in-the Segment Highlights
 
 Automatic time-based greetings (Morning / Afternoon / Evening)
 
