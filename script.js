@@ -1,4 +1,4 @@
-const API_KEY = "219f98c7813847f6c3e239dd21273fc8";
+const API_KEY = "Put Your API Key Here";
 let lastAQI = null;
 
 const cityInput = document.getElementById("cityInput");
@@ -176,3 +176,4 @@ function resetUI() {
   o3.innerText = "--";
   co.innerText = "--";
 }
+
