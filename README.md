@@ -4,58 +4,58 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 🚀 Key Features
 
-First-in-the Segment Highlights
+---> First-in-the Segment Highlights
 
-Automatic time-based greetings (Morning / Afternoon / Evening)
+1) Automatic time-based greetings (Morning / Afternoon / Evening)
 
-Weather + US AQI combined in one view
+2) Weather + US AQI combined in one view
 
-Color-based AQI styling for instant air quality awareness
+3) Color-based AQI styling for instant air quality awareness
 
-AQI trend status (Improving / Worsening / Stable)
+4) AQI trend status (Improving / Worsening / Stable)
 
-Human-readable “Feels Like” temperature feedback
+5) Human-readable “Feels Like” temperature feedback
 
-Weather
+ ---> Weather
 
-Real-time temperature, humidity, and wind
+1) Real-time temperature, humidity, and wind
 
-Sunrise & sunset timings
+2) Sunrise & sunset timings
 
-Next 5-hour forecast
+3) Next 5-hour forecast
 
-Air Quality
+----> Air Quality
 
-US AQI calculation (PM2.5 based)
+1) US AQI calculation (PM2.5 based)
 
-Health recommendations
+2) Health recommendations
 
-Pollutant breakdown: PM2.5, PM10, NO₂, SO₂, O₃, CO
+3) Pollutant breakdown: PM2.5, PM10, NO₂, SO₂, O₃, CO
 
 🛠 Tech Stack
 
-HTML5
+1) HTML5
 
-CSS3
+2) CSS3
 
-JavaScript (ES6)
+3) JavaScript (ES6)
 
-OpenWeatherMap API
+4) OpenWeatherMap API
 
 🎯 Learning Outcomes
 
-API integration & async JavaScript
+1) API integration & async JavaScript
 
-AQI calculation & data-driven UI styling
+2) AQI calculation & data-driven UI styling
 
-Building user-focused dashboards
+3) Building user-focused dashboards
 
 🔮 Future Enhancements
 
-Historical AQI trends
+1) Historical AQI trends
 
-Geolocation support
+2) Geolocation support
 
-PWA / offline mode
+3) PWA / offline mode
 
 ⭐ If you find this project useful, consider starring the repository.
