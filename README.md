@@ -1,10 +1,10 @@
-🌍 AirCast – Weather & Air Quality Dashboard
+# 🌍 AirCast – Weather & Air Quality Dashboard
 
 AirCast is a desktop-focused web application that provides real-time weather and air quality insights in a single, clean interface. It focuses on clarity, usability, and environmental awareness rather than just raw data.
 
-🚀 Key Features
+# 🚀 Key Features
 
----> First-in-the Segment Highlights
+# First-in-the Segment Highlights
 
 1) Automatic time-based greetings (Morning / Afternoon / Evening)
 
@@ -16,7 +16,7 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 5) Human-readable “Feels Like” temperature feedback
 
- ---> Weather
+# Weather
 
 1) Real-time temperature, humidity, and wind
 
@@ -24,7 +24,7 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 3) Next 5-hour forecast
 
-----> Air Quality
+# Air Quality
 
 1) US AQI calculation (PM2.5 based)
 
@@ -32,7 +32,7 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 3) Pollutant breakdown: PM2.5, PM10, NO₂, SO₂, O₃, CO
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 1) HTML5
 
@@ -42,7 +42,7 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 4) OpenWeatherMap API
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 1) API integration & async JavaScript
 
@@ -50,7 +50,7 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 3) Building user-focused dashboards
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 1) Historical AQI trends
 
@@ -58,4 +58,4 @@ AirCast is a desktop-focused web application that provides real-time weather and
 
 3) PWA / offline mode
 
-⭐ If you find this project useful, consider starring the repository.
+# ⭐ If you find this project useful, consider starring the repository.
